@@ -1,0 +1,16 @@
+name: Feature request
+description: A tool, option or documentation topic that is missing
+labels: [enhancement]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: What do you want to do?
+      description: Describe the task, not the solution
+    validations:
+      required: true
+  - type: textarea
+    id: today
+    attributes:
+      label: What happens today?
+      description: Which tools you tried and where they fall short

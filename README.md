@@ -88,9 +88,17 @@ Use the issue tracker of this repository for bug reports and questions about
 the MCP server: tool behaviour, install problems, MCP client compatibility. For
 anything about the app itself, Discord and <hello@agentfenster.com> are faster.
 
-## Rights
+## Contributing
 
-agentfenster is commercial closed-source software. No open-source license is
-granted here. The text in this repository is published so that MCP users and
-directories can read, quote and link to it. Use of the agentfenster app itself
-is governed by the terms at <https://agentfenster.com/terms>.
+Corrections to the text in this repository are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## License
+
+The documentation text in this repository is licensed under
+[CC BY 4.0](LICENSE). You may share and adapt it, including commercially, as
+long as you credit agentfenster and link to the license.
+
+This does not cover the agentfenster app or the MCP server it ships with. They
+are commercial closed-source software, no open-source license is granted for
+them, and the name and logo are not licensed. Use of the app is governed by the
+terms at <https://agentfenster.com/terms>.
